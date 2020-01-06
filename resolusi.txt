@@ -2,3 +2,5 @@ IM RESOLUSI
 -Konsistem dalam memahami perlajaran
 -Membuat aplikasi
 -Membuat tim
+-memahami progming language
+-dll
